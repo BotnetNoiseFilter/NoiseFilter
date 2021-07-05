@@ -2,6 +2,7 @@ Noise Filter
 A Botnet Detection Framework Based on Noise Filtering
 
 1. Feature files:
+	The CTU-13 dataset (http://www.stratosphereips.org/ datasets-ctu13) is used. The following feature files are collected from the complete packet capture (PCAP) format files based on the IP addresses specified in the dataset document.
 	CTU42-botnet_features.csv	: 14428 flows
 	CTU42-normal_features.csv	: 27067 flows
 	CTU43-botnet_features.csv	: 19440 flows
